@@ -1,0 +1,11 @@
+﻿1 - Caminho para as imagens Luta
+2 - Tamanho X
+3 - Tamanho Y
+4 - Numero de colunas
+5 - Numero de linhas
+6 - Total frame
+7 - Posição X do pokemon
+8 - Posição Y do pokemon
+9 - Vida
+10 - Ataque
+11 - Especial Ataque

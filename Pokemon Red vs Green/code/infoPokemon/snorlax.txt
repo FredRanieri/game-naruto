@@ -1,0 +1,11 @@
+imagem/snorlaxSprite.png
+75
+71
+13
+14
+148
+275
+280
+454
+48
+96

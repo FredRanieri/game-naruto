@@ -1,0 +1,11 @@
+imagem/alakazamBSprite.png
+93
+70
+9
+12
+85
+750
+120
+203
+88
+217

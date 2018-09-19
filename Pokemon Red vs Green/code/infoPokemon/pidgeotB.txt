@@ -1,0 +1,11 @@
+imagem/pidgeotBSprite.png
+58
+68
+9
+8
+56
+800
+120
+276
+96
+188

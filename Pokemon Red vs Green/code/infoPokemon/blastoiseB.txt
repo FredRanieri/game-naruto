@@ -1,0 +1,11 @@
+imagem/blastoiseSprite.png
+69
+65
+15
+17
+214
+750
+120
+382
+50
+127

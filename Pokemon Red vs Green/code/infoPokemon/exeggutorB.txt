@@ -1,0 +1,11 @@
+imagem/exeggutorBSprite.png
+79
+73
+9
+10
+70
+745
+85
+338
+68
+164

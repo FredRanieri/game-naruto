@@ -1,0 +1,11 @@
+imagem/charizardSprite.png
+98
+83
+11
+13
+143
+170
+230
+266
+85
+202

@@ -1,0 +1,11 @@
+imagem/charizardBSprite.png
+89
+91
+12
+12
+143
+170
+230
+1300
+400
+700

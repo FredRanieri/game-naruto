@@ -1,0 +1,11 @@
+imagem/pikachuSprite.png
+41
+47
+11
+11
+93
+270
+370
+180
+54
+280

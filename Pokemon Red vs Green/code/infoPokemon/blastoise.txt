@@ -1,0 +1,11 @@
+imagem/blastoiseBSprite.png
+66
+66
+16
+16
+210
+250
+320
+343
+56
+177

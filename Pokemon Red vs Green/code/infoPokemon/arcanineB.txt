@@ -1,0 +1,11 @@
+imagem/arcanineBSprite.png
+77
+69
+8
+9
+51
+750
+120
+290
+83
+188

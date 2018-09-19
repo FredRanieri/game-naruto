@@ -1,0 +1,11 @@
+imagem/venusaurBSprite.png
+86
+71
+12
+14
+167
+750
+120
+1500
+300
+1000
