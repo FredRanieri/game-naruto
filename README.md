@@ -1,5 +1,7 @@
 # Pokemon Red vs Green - Version 1.0
 
+![Screenshot](./imagem/intoDemo.png)
+
 This game is a version of the gameboy game Pokemon, It's just the figth between Red and Green.
 
 In one of my homework at University (2018) I worked in a version of the traditional gameboy game Pokemon using the language LUA. It was a homework of the Programming languages class.
