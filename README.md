@@ -1,6 +1,6 @@
 # Pokemon Red vs Green - Version 1.0
 
-![Screenshot](./imagem/intoDemo.png)
+![Screenshot](./imagem/demo.png)
 
 This game is a version of the gameboy game Pokemon, It's just the figth between Red and Green.
 
