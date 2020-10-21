@@ -13,7 +13,7 @@ janelaInto = {
 	},
 
 	videos = {
-		['abertura'] = love.graphics.newVideo('video/abertura.ogv', true)
+		['abertura'] = love.graphics.newVideo('video/abertura.ogv')
 	},
 	
 	fontes = {

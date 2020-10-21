@@ -7,3 +7,6 @@ In one of my homework at University (2018) I worked in a version of the traditio
 ### Compiled version
 
 In this project, I used Love2D to compile my code and create a runnable. It's possible to run going to the folder `Compiled_Game` and click on the file `pokemon.exe`
+
+- [Love2D version 11.0](https://love2d.org/)
+- [Love2D documentation](https://love2d.org/wiki/Main_Page)
